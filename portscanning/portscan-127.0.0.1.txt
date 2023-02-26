@@ -1,0 +1,20 @@
+>Port Scanner
+==============
+
+Target:	.!label2
+IP ADRESS:	127.0.0.1
+Ports:	1/10000]
+Results:	[12/10000]
+
+port135	[open]
+port445	[open]
+port1042	[open]
+port1043	[open]
+port1055	[open]
+port1056	[open]
+port1068	[open]
+port4524	[open]
+port5040	[open]
+port6646	[open]
+port9012	[open]
+port9013	[open]
